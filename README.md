@@ -1,8 +1,9 @@
 # weatherApp
 
-Weather app created using JavaScript, HTML, and CSS. This app allows users to search for a city and get the current weather information such as temperature, humidity, wind speed, and more.
+The weather app was created using JavaScript, HTML, and CSS. This app allows users to search for a city and get current weather information such as temperature, humidity, wind speed, and more.
 
-image.png
+![image](https://github.com/user-attachments/assets/f7bae286-4295-4a89-800a-f3196a7f27d3)
+
 
 ## Features
 
@@ -75,7 +76,7 @@ Hit CTRL-C to stop the server
 
 #### Option 2: Open index.html directly
 
-Alternatively, you can open the `index.html` file directly in your browser by double-clicking it. However, using a local server is recommended for better handling of dynamic content.
+Alternatively, you can open the `index.html` file directly in your browser by double-clicking it. However, using a local server is recommended for better dynamic content handling.
 
 ### Access the app
 
