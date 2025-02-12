@@ -2,6 +2,8 @@
 
 Weather app created using JavaScript, HTML, and CSS. This app allows users to search for a city and get the current weather information such as temperature, humidity, wind speed, and more.
 
+image.png
+
 ## Features
 
 - Search for a city to view the weather
