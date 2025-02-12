@@ -1,6 +1,6 @@
 # weatherApp
 
-The weather app was created using JavaScript, HTML, and CSS. This app allows users to search for a city and get current weather information such as temperature, humidity, wind speed, and more.
+The weather app was created using JavaScript, HTML, and CSS. This app allows users to search for a city and get current weather information such as temperature, humidity, and wind speed.
 
 ![image](https://github.com/user-attachments/assets/f7bae286-4295-4a89-800a-f3196a7f27d3)
 
