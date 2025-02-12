@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+*.log
+
+# npm package-lock file (optional, if you don't want it versioned)
+package-lock.json
+
+# OS specific files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Testing output
+coverage/
+
+# Build directories (if any)
+build/
+dist/
+
+# Temporary files
+*.swp
